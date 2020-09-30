@@ -15,5 +15,5 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 
-WebUI.openBrowser('https://diagnostics.staging.arcadier.io/user/item/detail/covid19agencyfind/ff4ed938-0c51-43e1-a409-95aa6520ab89')
+WebUI.openBrowser('https://diagnostics.staging.arcadier.io/user/item/detail/operation-1-3-genie-fast-hiv1-2-w-o-accessories-kit-25/0e59c734-a537-4021-a2aa-5148339ecd7f')
 
