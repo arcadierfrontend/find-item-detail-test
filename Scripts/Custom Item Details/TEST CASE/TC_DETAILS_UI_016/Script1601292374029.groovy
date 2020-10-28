@@ -17,6 +17,10 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.callTestCase(findTestCase('Custom Item Details/UTILITIES/OPEN_BROWSER'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.waitForElementVisible(findTestObject('Item Details Objects/Page_diagnostics/a_Accept Cookies'), 0)
+
+WebUI.click(findTestObject('Item Details Objects/Page_diagnostics/a_Accept Cookies'))
+
 WebUI.waitForElementVisible(findTestObject('Item Details Objects/Page_diagnostics/div_Product_Attributes'), 0)
 
 WebUI.verifyElementClickable(findTestObject('Item Details Objects/Page_diagnostics/div_Product_Attributes'))

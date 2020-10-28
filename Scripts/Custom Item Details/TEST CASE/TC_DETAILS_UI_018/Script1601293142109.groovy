@@ -17,13 +17,15 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.callTestCase(findTestCase('Custom Item Details/UTILITIES/OPEN_BROWSER'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.waitForElementVisible(findTestObject('Item Details Objects/Page_diagnostics/a_Accept Cookies'), 0)
+
+WebUI.click(findTestObject('Item Details Objects/Page_diagnostics/a_Accept Cookies'))
+
 WebUI.waitForElementVisible(findTestObject('Item Details Objects/Page_diagnostics/div_Regulatory_Approval'), 0)
 
 WebUI.verifyElementClickable(findTestObject('Item Details Objects/Page_diagnostics/div_Regulatory_Approval'))
 
 WebUI.verifyElementText(findTestObject('Item Details Objects/Page_diagnostics/div_Regulatory_Approval'), 'Regulatory Approval')
-
-WebUI.click(findTestObject('Item Details Objects/Page_diagnostics/a_Accept Cookies'))
 
 WebUI.click(findTestObject('Item Details Objects/Page_diagnostics/div_Regulatory_Approval'))
 
