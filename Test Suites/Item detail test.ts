@@ -87,36 +87,174 @@
       <guid>7c2aad60-a5b1-40af-a38c-3e8633a88521</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Custom Item Details/TEST CASE/TC_DETAILS_UI_013</testCaseId>
+      <testCaseId>Test Cases/Custom Item Details/TEST CASE/TC_DETAILS_UI_014</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>04beaa7d-7fad-458c-bc61-30b1054e1fd0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Custom Item Details/TEST CASE/TC_DETAILS_UI_014</testCaseId>
+      <testCaseId>Test Cases/Custom Item Details/TEST CASE/TC_DETAILS_UI_015</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>1dd9d597-118a-4588-b90a-fce6651850ef</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Custom Item Details/TEST CASE/TC_DETAILS_UI_015</testCaseId>
+      <testCaseId>Test Cases/Custom Item Details/TEST CASE/TC_DETAILS_UI_016</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>14fb77db-4ae6-4f57-a4ca-4b641909fc89</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Custom Item Details/TEST CASE/TC_DETAILS_UI_016</testCaseId>
+      <testCaseId>Test Cases/Custom Item Details/TEST CASE/TC_DETAILS_UI_017</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>e1bf8e06-3eaa-4c55-b628-4cbbe6774591</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Custom Item Details/TEST CASE/TC_DETAILS_UI_017</testCaseId>
+      <testCaseId>Test Cases/Custom Item Details/TEST CASE/TC_DETAILS_UI_018</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>dc8f391b-3c63-4bba-9eef-36eb1abbbf96</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Custom Item Details/TEST CASE/TC_DETAILS_UI_018</testCaseId>
+      <testCaseId>Test Cases/Custom Item Details/TEST CASE/TC_DETAILS_UI_019</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3985239e-8586-4963-9508-31b87039543b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Custom Item Details/TEST CASE/TC_DETAILS_UI_019</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3fa315aa-7a92-49ee-88ed-6fab9f07077e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Custom Item Details/TEST CASE/TC_DETAILS_UI_020</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0387badf-3c2e-4072-b79b-d8bc640be464</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Custom Item Details/TEST CASE/TC_DETAILS_UI_021</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c8b4e7c3-eaf2-4c8c-a599-84006a05ca4c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Custom Item Details/TEST CASE/TC_DETAILS_UI_022</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5af781a2-1dc9-4e84-8149-296edbb8e39b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Custom Item Details/TEST CASE/TC_DETAILS_UI_023</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9c995b97-6bdc-4365-82ff-d111bc70c8b0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Custom Item Details/TEST CASE/TC_DETAILS_UI_024</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>517d80ae-9b54-4e30-bfbd-c047b0c42134</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Custom Item Details/TEST CASE/TC_DETAILS_UI_025</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2648445a-1859-4937-937f-241beddb093d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Custom Item Details/TEST CASE/TC_DETAILS_UI_026</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8dd03285-f586-4842-8db8-accb74d2430e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Custom Item Details/TEST CASE/TC_DETAILS_UI_027</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>22a00235-e342-49f2-b7b5-bd7dd0a4a808</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Custom Item Details/TEST CASE/TC_DETAILS_UI_028</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a1b7e4f5-907a-48fe-9061-e82a4769f796</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Custom Item Details/TEST CASE/TC_DETAILS_UI_029</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0ff151d7-5dba-4ab4-8f47-cb0192e6cf79</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Custom Item Details/TEST CASE/TC_DETAILS_UI_030</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5f0dd24a-8998-4345-b696-ef3ea14f7daa</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Custom Item Details/TEST CASE/TC_DETAILS_UI_031</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f8c014b3-6209-47ce-8eff-f280774aed7b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Custom Item Details/TEST CASE/TC_DETAILS_UI_032</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ffd6a09a-e0eb-4c95-88a2-d9127038e4ab</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Custom Item Details/TEST CASE/TC_DETAILS_UI_033</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7132ac54-6211-4f6c-8509-7c6449ae0e05</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Custom Item Details/TEST CASE/TC_DETAILS_UI_034</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>73ffb48e-947b-44c6-936d-c8f1d55e8efc</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Custom Item Details/TEST CASE/TC_DETAILS_UI_035</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3264b005-97f9-4775-b3d5-a6d380766381</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Custom Item Details/TEST CASE/TC_DETAILS_UI_036</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>49be8937-427b-43e0-926c-6728639cb86b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Custom Item Details/TEST CASE/TC_DETAILS_UI_037</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6f070364-eccb-48c2-b336-826a22905037</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Custom Item Details/TEST CASE/TC_DETAILS_UI_038</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>456fc486-c076-4b36-a003-f4d49fd73319</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Custom Item Details/TEST CASE/TC_DETAILS_UI_039</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e9d40164-1224-456b-8f0e-36645bf80bb1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Custom Item Details/TEST CASE/TC_DETAILS_UI_040</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>20e89000-faeb-447e-91b3-c7a80a73ca74</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Custom Item Details/TEST CASE/TC_DETAILS_UI_041</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
