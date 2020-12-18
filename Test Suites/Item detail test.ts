@@ -252,6 +252,18 @@
       <testCaseId>Test Cases/Custom Item Details/TEST CASE/TC_DETAILS_UI_040</testCaseId>
    </testCaseLink>
    <testCaseLink>
+      <guid>b42d02d7-5459-4dd5-9434-b177f6fb4d91</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Custom Item Details/TEST CASE/TC_DETAILS_UI_042</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2d9fdeaf-b8f2-4646-87aa-39b30989523b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Custom Item Details/TEST CASE/TC_DETAILS_UI_043</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
       <guid>20e89000-faeb-447e-91b3-c7a80a73ca74</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>

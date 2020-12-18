@@ -21,21 +21,9 @@ WebUI.waitForElementVisible(findTestObject('Item Details Objects/Page_diagnostic
 
 WebUI.click(findTestObject('Item Details Objects/Page_diagnostics/a_Accept Cookies'))
 
-WebUI.waitForElementVisible(findTestObject('Item Details Objects/Page_diagnostics/a_Procure_Directly_From_Seller'), 0)
+WebUI.verifyElementPresent(findTestObject('Item Details Objects/Page_diagnostics/div_Price_Box'), 0)
 
-WebUI.click(findTestObject('Item Details Objects/Page_diagnostics/a_Procure_Directly_From_Seller'))
-
-WebUI.verifyElementPresent(findTestObject('Login Page/Page_diagnostics/div_Login_Page'), 0)
-
-WebUI.callTestCase(findTestCase('Custom Item Details/UTILITIES/LOGIN'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('Custom Item Details/UTILITIES/ITEM_DETAIL_PAGE'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('Item Details Objects/Page_diagnostics/a_Procure_Directly_From_Seller'))
-
-WebUI.verifyElementPresent(findTestObject('Cart/Page_diagnostics/div_VIEW_CART_Area'), 0)
-
-WebUI.mouseOver(findTestObject('Item Details Objects/Page_diagnostics/a_Cart_visible-xs'))
+WebUI.verifyElementNotVisible(findTestObject('Item Details Objects/Page_diagnostics/div_Price_Box'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('Custom Item Details/UTILITIES/CLOSE_BROWSER'), [:], FailureHandling.STOP_ON_FAILURE)
 

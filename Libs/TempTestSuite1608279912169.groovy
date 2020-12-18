@@ -32,8 +32,8 @@ DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.t
 
 
 
-RunConfiguration.setExecutionSettingFile("K:\\Work\\GitHub\\find-item-detail-test\\Reports\\20201216_181744\\Item detail test\\20201216_181744\\execution.properties")
+RunConfiguration.setExecutionSettingFile("K:\\Work\\GitHub\\find-item-detail-test\\Reports\\20201218_162512\\Item detail test\\20201218_162512\\execution.properties")
 
 TestCaseMain.beforeStart()
 
-TestCaseMain.startTestSuite('Test Suites/Item detail test', suiteProperties, new File("K:\\Work\\GitHub\\find-item-detail-test\\Reports\\20201216_181744\\Item detail test\\20201216_181744\\testCaseBinding"))
+TestCaseMain.startTestSuite('Test Suites/Item detail test', suiteProperties, new File("K:\\Work\\GitHub\\find-item-detail-test\\Reports\\20201218_162512\\Item detail test\\20201218_162512\\testCaseBinding"))
